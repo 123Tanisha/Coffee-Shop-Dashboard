@@ -1,7 +1,3 @@
-Here’s a **professional README** you can use for your Coffee Shop Dashboard project — it explains the purpose, insights, and tools clearly and makes a strong impression for a data analyst portfolio.
-
----
-
 # ☕ Coffee Shop Sales Dashboard
 
 ### 📂 Project Location
