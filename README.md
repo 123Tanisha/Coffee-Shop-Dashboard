@@ -1,9 +1,5 @@
 # ☕ Coffee Shop Sales Dashboard
 
-### 📂 Project Location
-
-`123tanisha-coffee-shop-dashboard/`
-
 ---
 
 ## 📘 Project Overview
