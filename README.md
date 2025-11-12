@@ -1,7 +1,5 @@
 # ☕ Coffee Shop Sales Dashboard
 
----
-
 ## 📘 Project Overview
 
 This project analyzes the performance of a coffee shop across multiple locations — **Astoria, Hell’s Kitchen, and Lower Manhattan** — using sales and transaction data. The interactive dashboard provides insights into **revenue trends, popular products, and customer behavior patterns** based on time and product category.
